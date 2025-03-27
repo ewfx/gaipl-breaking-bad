@@ -14,7 +14,7 @@
 ---
 
 ## 🎯 Introduction
-The project uses the GenAI model to take data - IT tickets or logs or any text input as input and would output them grouped into categories. This can be used to 
+The project uses the GenAI model to take data - IT tickets or logs or any text as input and would output them grouped into categories. This can be used to 
 - identify unknown labels/categories for IT Tickets
 - tag any category/group for log entries to detect neighborhoods.
 
