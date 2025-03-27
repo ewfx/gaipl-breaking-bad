@@ -28,7 +28,7 @@ Proper tagging/identification of data category is the most important requirement
 I uses BerTopic model to identify the topics within data
 
 ## 🛠️ How We Built It
-We used NLP & Topoc Modeling techniques to build this project using Google colab environment
+We used NLP & Topic Modeling techniques to build this project using Google colab environment
 
 ## 🚧 Challenges We Faced
 Data quality from open source required preprocessing 
