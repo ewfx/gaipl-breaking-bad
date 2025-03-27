@@ -37,8 +37,8 @@ Data quality from open source required preprocessing
 Run the ipynb file on any supporting wnvironment
 
 ## 🏗️ Tech Stack
-- 🔹 Python
+- Python
 
 ## 👥 Team
 - **Anwin Varghese** - https://github.com/sacwin 
-- **Adithya Ravichandran** - [[GitHub](#) | [LinkedIn](#)](https://github.com/adithyarc26
+- **Adithya Ravichandran** - https://github.com/adithyarc26
