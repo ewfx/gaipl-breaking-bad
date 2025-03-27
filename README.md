@@ -1,4 +1,4 @@
-# 🚀 Project Name
+# 🚀 Team: Breaking Bad
 
 ## 📌 Table of Contents
 - [Introduction](#introduction)
@@ -14,47 +14,31 @@
 ---
 
 ## 🎯 Introduction
-A brief overview of your project and its purpose. Mention which problem statement are your attempting to solve. Keep it concise and engaging.
+The project uses the GenAI model to take data - IT tickets or logs or any text as input and would output them grouped into categories. This can be used to 
+- identify unknown labels/categories for IT Tickets
+- tag any category/group for log entries to detect neighborhoods.
 
 ## 🎥 Demo
-🔗 [Live Demo](#) (if applicable)  
-📹 [Video Demo](#) (if applicable)  
-🖼️ Screenshots:
-
-![Screenshot 1](link-to-image)
+Included in PDF files within artifacts folder 
 
 ## 💡 Inspiration
-What inspired you to create this project? Describe the problem you're solving.
+Proper tagging/identification of data category is the most important requirement and aspect for any AI/ML related work
 
 ## ⚙️ What It Does
-Explain the key features and functionalities of your project.
+I uses BerTopic model to identify the topics within data
 
 ## 🛠️ How We Built It
-Briefly outline the technologies, frameworks, and tools used in development.
+We used NLP & Topic Modeling techniques to build this project using Google colab environment
 
 ## 🚧 Challenges We Faced
-Describe the major technical or non-technical challenges your team encountered.
+Data quality from open source required preprocessing 
 
 ## 🏃 How to Run
-1. Clone the repository  
-   ```sh
-   git clone https://github.com/your-repo.git
-   ```
-2. Install dependencies  
-   ```sh
-   npm install  # or pip install -r requirements.txt (for Python)
-   ```
-3. Run the project  
-   ```sh
-   npm start  # or python app.py
-   ```
+Run the ipynb file on any supporting environment
 
 ## 🏗️ Tech Stack
-- 🔹 Frontend: React / Vue / Angular
-- 🔹 Backend: Node.js / FastAPI / Django
-- 🔹 Database: PostgreSQL / Firebase
-- 🔹 Other: OpenAI API / Twilio / Stripe
+- Python
 
 ## 👥 Team
-- **Your Name** - [GitHub](#) | [LinkedIn](#)
-- **Teammate 2** - [GitHub](#) | [LinkedIn](#)
+- **Anwin Varghese** - https://github.com/sacwin 
+- **Adithya Ravichandran** - https://github.com/adithyarc26
