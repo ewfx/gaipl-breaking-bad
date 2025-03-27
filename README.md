@@ -1,4 +1,4 @@
-# 🚀 Beaking Bad
+# 🚀 Team: Breaking Bad
 
 ## 📌 Table of Contents
 - [Introduction](#introduction)
