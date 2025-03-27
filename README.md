@@ -34,7 +34,7 @@ We used NLP & Topic Modeling techniques to build this project using Google colab
 Data quality from open source required preprocessing 
 
 ## 🏃 How to Run
-Run the ipynb file on any supporting wnvironment
+Run the ipynb file on any supporting environment
 
 ## 🏗️ Tech Stack
 - Python
